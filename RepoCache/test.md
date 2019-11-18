@@ -1,6 +1,6 @@
 ---
-title：test page
-authour:staceyhong
+title： test page
+author: staceyhong
 ---
 
 # h1 test
