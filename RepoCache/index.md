@@ -1,5 +1,5 @@
 ---
-author: staceyhong
-title: e2etest
+author: e2etest
+title: repo cache test
 ---
 # Welcome to e2e-repoCacheTest!
